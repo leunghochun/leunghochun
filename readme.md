@@ -1,7 +1,7 @@
 <!--
  * @Author: joe leung
  * @Date: 2021-07-05 11:09:57
- * @LastEditTime: 2021-07-05 15:37:09
+ * @LastEditTime: 2021-07-05 15:46:07
  * @LastEditors: Please set LastEditors
  * @Description: to make a personal github profile myself
  * @FilePath: /leunghochun/readme.md
@@ -11,14 +11,6 @@ I am a full stack software engineer from Hong Kong. I am a beginner of github an
 
 Currently, I am working out a chatting [backend(mongo, nodejs & expressjs)](https://github.com/leunghochun/bubblesapi.git) & [frontend [wip] (reactjs, redux, redux-saga)](https://github.com/leunghochun/bubble_chats.git). It may help some beginners to try or learn about MERN including unit testing with jest.
 
-upcoming task, I will work a grahql api service by .net core and implement the same logic as bubblesapi
-
-- [x] modejs
-- [x] expressjs
-- [x] mongodb
-- [ ] reactjs
-- [ ] .net core (graphql api) with clean architecture
-<br/>
 - 🔭 I’m currently working on The Hong Kong Jockey Club [GoalX mobile betting app](https://m.hkjc.com/en/betting-apps-and-website.html#goalx)
 
 - 🌱 I’m currently learning **MERN**
@@ -29,6 +21,14 @@ upcoming task, I will work a grahql api service by .net core and implement the s
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/joeleunghochun/](https://www.linkedin.com/in/joeleunghochun/)
 
+###Task List
+- [x] modejs
+- [x] expressjs
+- [x] mongodb
+- [ ] reactjs
+- [ ] .net core (graphql api) with clean architecture
+
+After reactjs, I will work a grahql api service by .net core and implement the same logic as bubblesapi
 
 <div style="display:flex">
 <p align="left">
