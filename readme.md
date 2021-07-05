@@ -1,7 +1,7 @@
 <!--
  * @Author: joe leung
  * @Date: 2021-07-05 11:09:57
- * @LastEditTime: 2021-07-05 15:04:32
+ * @LastEditTime: 2021-07-05 15:06:56
  * @LastEditors: Please set LastEditors
  * @Description: to make a personal github profile myself
  * @FilePath: /leunghochun/readme.md
@@ -26,7 +26,6 @@ The project may help some beginner to try or learn about MERN including unit tes
 
 <div style="display:flex">
 <p align="left">
-    <img style="width:40vw" src="https://github-readme-stats.vercel.app/api/top-langs?username=leunghochun&show_icons=true&locale=en&layout=compact" alt="leunghochun" />
     <br/>
     Languages and Tools:
     <br/>
@@ -48,10 +47,9 @@ The project may help some beginner to try or learn about MERN including unit tes
 	<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" /> </a>
     <br/>
 </p>
-<p align="right">
-    <img style="width:40vw" src="https://github-readme-stats.vercel.app/api?username=leunghochun&show_icons=true&locale=en" alt="leunghochun" />
-    <br/>
-    heroku.com:
-    <img style="width:40vw" src="https://github-readme-streak-stats.herokuapp.com/?user=leunghochun&" alt="leunghochun" />
-</p>
 </div>
+<img style="width:40vw" src="https://github-readme-stats.vercel.app/api/top-langs?username=leunghochun&show_icons=true&locale=en&layout=compact" alt="leunghochun" />
+<img style="width:40vw" src="https://github-readme-stats.vercel.app/api?username=leunghochun&show_icons=true&locale=en" alt="leunghochun" />
+heroku.com:
+<br/>
+<img style="width:40vw" src="https://github-readme-streak-stats.herokuapp.com/?user=leunghochun&" alt="leunghochun" />
