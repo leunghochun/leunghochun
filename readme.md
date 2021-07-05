@@ -1,7 +1,7 @@
 <!--
  * @Author: joe leung
  * @Date: 2021-07-05 11:09:57
- * @LastEditTime: 2021-07-05 15:06:56
+ * @LastEditTime: 2021-07-05 15:10:54
  * @LastEditors: Please set LastEditors
  * @Description: to make a personal github profile myself
  * @FilePath: /leunghochun/readme.md
@@ -12,6 +12,8 @@ I am a full stack software engineer from Hong Kong. I am a beginner of github an
 Currently, I am working out a chatting [backend(mongo, nodejs & expressjs)](https://github.com/leunghochun/bubblesapi.git) & [frontend [wip] (reactjs, redux, redux-saga)](https://github.com/leunghochun/bubble_chats.git)
 
 The project may help some beginner to try or learn about MERN including unit testing with jest.
+
+upcoming task, I will work a grahql api service by .net core and implement the same logic as bubblesapi
 
 - 🔭 I’m currently working on The Hong Kong Jockey Club [GoalX mobile betting app](https://m.hkjc.com/en/betting-apps-and-website.html#goalx)
 
