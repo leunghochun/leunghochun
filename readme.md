@@ -1,7 +1,7 @@
 <!--
  * @Author: joe leung
  * @Date: 2021-07-05 11:09:57
- * @LastEditTime: 2021-07-05 15:10:54
+ * @LastEditTime: 2021-07-05 15:37:09
  * @LastEditors: Please set LastEditors
  * @Description: to make a personal github profile myself
  * @FilePath: /leunghochun/readme.md
@@ -9,12 +9,16 @@
 #Hi 👋, I'm joe leung ho chun
 I am a full stack software engineer from Hong Kong. I am a beginner of github and I love coding, learning new tech. As a software engineer, I enjoy to use any new tech. to apply on any challenging projects. It's making me so happy and enhance/upgrade my skill sets.
 
-Currently, I am working out a chatting [backend(mongo, nodejs & expressjs)](https://github.com/leunghochun/bubblesapi.git) & [frontend [wip] (reactjs, redux, redux-saga)](https://github.com/leunghochun/bubble_chats.git)
-
-The project may help some beginner to try or learn about MERN including unit testing with jest.
+Currently, I am working out a chatting [backend(mongo, nodejs & expressjs)](https://github.com/leunghochun/bubblesapi.git) & [frontend [wip] (reactjs, redux, redux-saga)](https://github.com/leunghochun/bubble_chats.git). It may help some beginners to try or learn about MERN including unit testing with jest.
 
 upcoming task, I will work a grahql api service by .net core and implement the same logic as bubblesapi
 
+- [x] modejs
+- [x] expressjs
+- [x] mongodb
+- [ ] reactjs
+- [ ] .net core (graphql api) with clean architecture
+<br/>
 - 🔭 I’m currently working on The Hong Kong Jockey Club [GoalX mobile betting app](https://m.hkjc.com/en/betting-apps-and-website.html#goalx)
 
 - 🌱 I’m currently learning **MERN**
